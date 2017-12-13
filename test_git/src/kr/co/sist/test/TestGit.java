@@ -6,5 +6,6 @@ public class TestGit {
 		int i=10;
 		System.out.println("Git Hub 연습"+i);
 		System.out.println("수정수정수정");
+		System.out.println("수정수정수정");
 	}//main
 }//class
